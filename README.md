@@ -16,3 +16,4 @@
 | 6    | [ Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/)                                                    | [ view ](https://www.geeksforgeeks.org/pascal-triangle/)                                                   |
 | 7    | [ Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                       | [ view ](https://www.geeksforgeeks.org/best-time-to-buy-and-sell-stock/)                                   |
 | 8    | [ Single Number ](https://leetcode.com/problems/single-number/)                                                           | [ view ](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)                                |
+| 9    | [ Majority Element ](https://leetcode.com/problems/majority-element/)                                                     | [ view ](https://www.geeksforgeeks.org/majority-element/)                                                  |
