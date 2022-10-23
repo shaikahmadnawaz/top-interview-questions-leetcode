@@ -18,3 +18,4 @@
 | 8    | [ Single Number ](https://leetcode.com/problems/single-number/)                                                           | [ view ](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)                                |
 | 9    | [ Majority Element ](https://leetcode.com/problems/majority-element/)                                                     | [ view ](https://www.geeksforgeeks.org/majority-element/)                                                  |
 | 10   | [ Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/)                                                 | [ view ](https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/)               |
+| 11   | [ Missing Number ](https://leetcode.com/problems/missing-number/)                                                         | [ view ](https://www.geeksforgeeks.org/find-the-missing-number/)                                           |
