@@ -21,3 +21,9 @@
 | 11   | [ Missing Number ](https://leetcode.com/problems/missing-number/)                                                         | [ view ](https://www.geeksforgeeks.org/find-the-missing-number/)                                                                 |
 | 12   | [ Move Zeroes ](https://leetcode.com/problems/move-zeroes/)                                                               | [ view ](https://www.geeksforgeeks.org/move-zeroes-end-array/)                                                                   |
 | 13   | [ Intersection of Two Arrays II ](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                           | [ view ](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/954800/Java-solution-with-explanation-and-pictures) |
+
+### Medium
+
+| P No | Problem                                                                                 | Tutorial Link                                                      |
+| ---- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 14   | [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/) | [ view ](https://www.geeksforgeeks.org/container-with-most-water/) |
