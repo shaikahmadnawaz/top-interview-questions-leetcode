@@ -24,6 +24,7 @@
 
 ### Medium
 
-| P No | Problem                                                                                 | Tutorial Link                                                      |
-| ---- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 14   | [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/) | [ view ](https://www.geeksforgeeks.org/container-with-most-water/) |
+| P No | Problem                                                                                 | Tutorial Link                                                                     |
+| ---- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 14   | [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/) | [ view ](https://www.geeksforgeeks.org/container-with-most-water/)                |
+| 15   | [ 3Sum ](https://leetcode.com/problems/3sum/)                                           | [ view ](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/) |
