@@ -24,8 +24,9 @@
 
 ### Medium
 
-| P No | Problem                                                                                           | Tutorial Link                                                                            |
-| ---- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 14   | [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/)           | [ view ](https://www.geeksforgeeks.org/container-with-most-water/)                       |
-| 15   | [ 3Sum ](https://leetcode.com/problems/3sum/)                                                     | [ view ](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)        |
-| 16   | [ Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [ view ](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/) |
+| P No | Problem                                                                                                                                             | Tutorial Link                                                                                          |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 14   | [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/)                                                             | [ view ](https://www.geeksforgeeks.org/container-with-most-water/)                                     |
+| 15   | [ 3Sum ](https://leetcode.com/problems/3sum/)                                                                                                       | [ view ](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)                      |
+| 16   | [ Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | [ view ](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)               |
+| 17   | [ Find First and Last Position of Element in Sorted Array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ view ](https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/) |
